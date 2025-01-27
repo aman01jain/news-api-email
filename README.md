@@ -1,2 +1,2 @@
 # Project
-This app accessnews about a particular topic 
+This app access news about a particular topic and emails the particular individual
